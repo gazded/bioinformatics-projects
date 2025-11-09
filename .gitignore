@@ -1,1 +1,6 @@
 soil-metagenome-clean/
+
+# Single-cell analysis large files
+*.h5ad
+*.mtx.gz
+.ipynb_checkpoints/
